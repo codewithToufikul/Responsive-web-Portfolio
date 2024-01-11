@@ -379,7 +379,8 @@ footer{
     }
     .f-area{
         flex-direction: column;
-        padding-top: 20px;
+        padding-top: 10px;
+        padding-left: 20px;
         gap: 50px;
     }
     #name{
