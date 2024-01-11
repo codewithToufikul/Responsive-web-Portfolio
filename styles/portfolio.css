@@ -374,6 +374,9 @@ footer{
         font-size: 40px;
         
     }
+    .section-p{
+        padding: 0px 10px 0px 10px;
+    }
     .f-area{
         flex-direction: column;
         padding-top: 20px;
